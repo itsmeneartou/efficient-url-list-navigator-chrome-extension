@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "efficient urls navigator",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "This extension helps in navigating list of urls by keybord for efficient typing work",
+    "description": "The description of the application"
+  }
+}
